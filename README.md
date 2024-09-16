@@ -26,7 +26,7 @@ flask db upgrade
 
 Add these validations:
 
-1. The `year_joined` must be between 1970 and the current year.
+1. The `year_joined` must be between 1970 and the current year. 
 
 2. Username cannot include naughty words like 'heck', 'frack', or 'bish'.
 
